@@ -626,7 +626,7 @@ styleSheet.textContent = `
     .nav-item .nav-subtitle { font-size: 6px !important; letter-spacing: 1.5px !important; }
     .nav-item .nav-marker { width: 12px !important; margin-bottom: 5px !important; }
     .bottom-title { transform: translateX(-50%) scale(0.7) !important; bottom: 15px !important; }
-    .top-title .top-title-main { font-size: 34px !important; letter-spacing: 10px !important; }
+    .top-title .top-title-main { font-size: 34px !important; letter-spacing: 10px !important; margin-top: 50px !important; }
     .top-title { padding-top: 18px !important; }
     .top-title .top-title-year { display: none !important; }
     .bottom-title .bottom-title-tagline, .bottom-title .bottom-title-tagline2 { font-size: 10px !important; letter-spacing: 4px !important; }
@@ -642,7 +642,7 @@ styleSheet.textContent = `
     .nav-item .nav-subtitle { font-size: 5px !important; letter-spacing: 1px !important; }
     .nav-item .nav-marker { width: 8px !important; margin-bottom: 3px !important; }
     .bottom-title { transform: translateX(-50%) scale(0.55) !important; bottom: 8px !important; }
-    .top-title .top-title-main { font-size: 24px !important; letter-spacing: 8px !important; }
+    .top-title .top-title-main { font-size: 24px !important; letter-spacing: 8px !important; margin-top: 50px !important; }
     .top-title { padding-top: 12px !important; }
     .bottom-title .bottom-title-tagline, .bottom-title .bottom-title-tagline2 { font-size: 8px !important; letter-spacing: 3px !important; }
     .top-title .top-title-deco-top, .top-title .top-title-deco-bottom { display: none !important; }
@@ -658,7 +658,7 @@ styleSheet.textContent = `
     .nav-item .nav-label { font-size: 9px !important; letter-spacing: 1.5px !important; }
     .nav-item .nav-subtitle { display: none !important; }
     .bottom-title { transform: translateX(-50%) scale(0.45) !important; bottom: 5px !important; }
-    .top-title .top-title-main { font-size: 18px !important; letter-spacing: 6px !important; }
+    .top-title .top-title-main { font-size: 18px !important; letter-spacing: 6px !important; margin-top: 50px !important; }
     .top-title { padding-top: 8px !important; }
     .bottom-title .bottom-title-tagline, .bottom-title .bottom-title-tagline2 { font-size: 7px !important; letter-spacing: 2px !important; }
   }
